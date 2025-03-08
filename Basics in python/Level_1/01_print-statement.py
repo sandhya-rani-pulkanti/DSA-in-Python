@@ -1,0 +1,2 @@
+print("OM GAM GANPATEY NAMAH!")
+print("SRI RADHAKRISHN")
